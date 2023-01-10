@@ -1,4 +1,4 @@
-# Graphic-Designer (to be completed)
+# Graphic-Designer (Beta)
 3D-modeling desinger which simulate 3 axis (x,y,z).
 Turns around, zoom in/out, creates and edit obects (line). 
 
